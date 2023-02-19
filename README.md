@@ -6,7 +6,7 @@
 
 - 🔭 I’m a master's student studying computer science at NTNU in Trondheim, Norway
 - 🧳 I'm starting a career as a software developer and consultant at <a href="https://www.netlight.com/" target="_blank">Netlight</a> in August 2023
-- 💬 You can get in touch with my by email at <a href="mailto:andreas@winthermoen.no">andreas@winthermoen.no</a>
+- 💬 You can get in touch with me by email at <a href="mailto:andreas@winthermoen.no">andreas@winthermoen.no</a>
 
 <br />
 
