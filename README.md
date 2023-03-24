@@ -10,6 +10,6 @@
 
 <br />
 
-[![Andreas's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreaswinthermoen&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Andreas's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=andreaswinthermoen&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreaswinthermoen&show_icons=true&theme=gruvbox&langs_count=8&hide=elixir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andreaswinthermoen&show_icons=true&theme=gruvbox&langs_count=8&hide=elixir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
