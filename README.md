@@ -14,3 +14,5 @@
 <br />
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreaswinthermoen&show_icons=true&theme=gruvbox&langs_count=8&hide=elixir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub contribution streaks](https://streak-stats.demolab.com/?user=AndreasWintherMoen&theme=tokyonight)
