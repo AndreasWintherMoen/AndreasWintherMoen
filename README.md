@@ -13,9 +13,4 @@
 
 <br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndreasWintherMoen/AndreasWintherMoen/profile-assets/breakout-dark.svg">
-  <img alt="Breakout clearing bricks from my GitHub contribution calendar" src="https://raw.githubusercontent.com/AndreasWintherMoen/AndreasWintherMoen/profile-assets/breakout.svg">
-</picture>
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreaswinthermoen&show_icons=true&theme=gruvbox&langs_count=8&hide=elixir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
