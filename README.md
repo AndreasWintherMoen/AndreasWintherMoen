@@ -7,6 +7,7 @@
 - 🔭 I’m a software developer and consultant
 - 🎮 I also love making video games
 - 💻 And anything else programming related, really
+- 🌐 [My portfolio](https://winthermoen.no/)
 - 💬 You can get in touch with me by email at <a href="mailto:andreas@winthermoen.no">andreas@winthermoen.no</a>
 
 <br />
