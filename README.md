@@ -7,11 +7,15 @@
 - 🔭 I’m a software developer and consultant
 - 🎮 I also love making video games
 - 💻 And anything else programming related, really
-- 🌐 [My portfolio](https://winthermoen.no/)
 - 💬 You can get in touch with me by email at <a href="mailto:andreas@winthermoen.no">andreas@winthermoen.no</a>
+
+[https://winthermoen.no](https://winthermoen.no)
 
 <br />
 
-[![Andreas's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreaswinthermoen&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndreasWintherMoen/AndreasWintherMoen/profile-assets/breakout-dark.svg">
+  <img alt="Breakout clearing bricks from my GitHub contribution calendar" src="https://raw.githubusercontent.com/AndreasWintherMoen/AndreasWintherMoen/profile-assets/breakout.svg">
+</picture>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreaswinthermoen&show_icons=true&theme=gruvbox&langs_count=8&hide=elixir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
