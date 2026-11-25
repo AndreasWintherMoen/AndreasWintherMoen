@@ -13,6 +13,7 @@
 
 <br />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreaswinthermoen&show_icons=true&theme=gruvbox&langs_count=8&hide=elixir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub contribution streaks](https://streak-stats.demolab.com/?user=AndreasWintherMoen&theme=tokyonight)
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreaswinthermoen&amp;show_icons=true&amp;theme=gruvbox&amp;langs_count=8&amp;hide=elixir&amp;layout=compact" alt="Top Languages" width="252"></a>
+  <img src="https://streak-stats.demolab.com/?user=AndreasWintherMoen&amp;theme=tokyonight" alt="GitHub contribution streaks" width="405">
+</p>
